@@ -26,3 +26,5 @@ def forecast(region: str, province: str, type_of_exercise: str, tourist_residenc
     data = [{"date": indexes[i],  "npeople": values[i]} for i in range(len(values))]
 
     return {"prediction": data}
+
+if __name__ == '__main__':
