@@ -1,8 +1,9 @@
 numpy
 pandas
+sklearn
 uvicorn
 statsmodels
 pickle5
 fastapi
 pathlib
-sklearn
+joblib
