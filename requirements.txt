@@ -3,5 +3,6 @@ pandas
 uvicorn
 statsmodels
 joblib
+pickle5
 fastapi
 pathlib
