@@ -1,8 +1,10 @@
 numpy
 pandas
+sklearn
 uvicorn
 statsmodels
-joblib
 pickle5
 fastapi
+fastapi[cors]
 pathlib
+joblib
