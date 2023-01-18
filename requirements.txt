@@ -1,0 +1,7 @@
+numpy
+pandas
+uvicorn
+statsmodels
+joblib
+fastapi
+pathlib
