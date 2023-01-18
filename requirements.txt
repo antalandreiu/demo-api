@@ -2,7 +2,8 @@ numpy
 pandas
 uvicorn
 statsmodels
-joblib
+joblib == 1.2.0
 pickle5
 fastapi
 pathlib
+sklearn
